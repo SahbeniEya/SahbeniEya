@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px"> About me
 
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```python
 class CyberSecurityEngineer:
