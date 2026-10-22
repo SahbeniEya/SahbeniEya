@@ -27,7 +27,7 @@ class CyberSecurityEngineer:
         }
     
     def contact(self):
-        self.email = "sahbeni.eya@gmail.com"
+        self.email = "sahbenieya016@gmail.com"
         self.linkedin = "linkedin.com/in/sahbeni-eya"
 ```
 
